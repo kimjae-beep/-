@@ -1,5 +1,6 @@
 streamlit
 langchain-core
+langchain-community
 langchain-openai
+langchain-ollama
 youtube-transcript-api
-langchain_ollama

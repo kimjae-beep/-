@@ -2,3 +2,4 @@ streamlit
 langchain-core
 langchain-openai
 youtube-transcript-api
+langchain_ollama
